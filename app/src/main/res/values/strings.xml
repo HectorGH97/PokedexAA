@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="pokemon_description">A cool pokemon</string>
+    <string name="pokemon_stats">Base Stat: %1$d, Effort: %2$d, Name Stat: %3$s</string>
+</resources>
